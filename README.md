@@ -30,4 +30,4 @@ O projeto explora conceitos de lógica de programação, manipulação de variá
 
 
 ---
-Desenvolvido por Luiz Oliveira# Cassino Python 
+Desenvolvido por Luiz Oliveira
